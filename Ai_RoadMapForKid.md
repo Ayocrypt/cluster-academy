@@ -1,4 +1,7 @@
-# 🧒 AI Roadmap for Kids 
+
+# Cluster Ninja Academy -  🧒 AI Roadmap for Kids 
+![Cluster Ninja Academy](https://github.com/Ayocrypt/Cluster-Ninja-Academy/blob/main/IMG_20240802_063500.jpg)
+
 
 ## Week 1: Introduction to AI
 - What is AI  
